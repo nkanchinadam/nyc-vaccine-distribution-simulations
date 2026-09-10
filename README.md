@@ -1,0 +1,1 @@
+This project uses real-world COVID-19 vaccination & spread rates from New York City to simulate how different strategies of vaccine allocation and distribution could have affected the spread of the virus during the pandemic.
