@@ -1,0 +1,27 @@
+period 0 iter 0: ZIP err 0.406 step 0.400 max R 5.98
+period 0 iter 1: ZIP err 0.130 step 0.400 max R 5.91
+period 0 iter 2: ZIP err 0.050 step 0.400 max R 5.98
+period 0 iter 3: ZIP err 0.023 step 0.400 max R 5.98
+period 0 iter 4: ZIP err 0.013 step 0.400 max R 5.98
+period 0 iter 5: ZIP err 0.007 step 0.400 max R 5.98
+period 0 iter 6: ZIP err 0.005 step 0.400 max R 5.98
+period 0 iter 7: ZIP err 0.004 step 0.400 max R 5.98
+period 0 iter 8: ZIP err 0.004 step 0.400 max R 5.98
+period 0 done: ZIP err 0.004
+period 1 iter 0: ZIP err 0.913 step 0.400 max R 3.13
+period 1 iter 1: ZIP err 0.708 step 0.400 max R 3.41
+period 1 iter 2: ZIP err 0.615 step 0.400 max R 3.40
+period 1 iter 3: ZIP err 0.800 step 0.400 max R 3.57
+period 1 iter 4: ZIP err 0.127 step 0.200 max R 3.52
+period 1 iter 5: ZIP err 0.036 step 0.200 max R 3.52
+period 1 iter 6: ZIP err 0.018 step 0.200 max R 3.52
+period 1 iter 7: ZIP err 0.015 step 0.200 max R 3.52
+period 1 iter 8: ZIP err 0.013 step 0.200 max R 3.52
+period 1 done: ZIP err 0.013
+period 2 iter 0: ZIP err 0.249 step 0.400 max R 2.44
+period 2 done: ZIP err 0.249
+period 3 iter 0: ZIP err 0.869 step 0.400 max R 5.52
+period 3 done: ZIP err 0.869
+period 4 iter 0: ZIP err 0.632 step 0.400 max R 5.78
+period 4 done: ZIP err 0.632
+infected by Apr 20 2020 26.4% | ever infected by Nov 2021 53.5%
